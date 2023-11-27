@@ -645,8 +645,8 @@ span {
   max-height: 250px;
   background-color: #121212;
   display: flex;
-  align-items: top;
-  justify-content: top;
+  align-items: center;
+  justify-content: center;
 }
 
 #projects .project-img img {
@@ -985,7 +985,7 @@ span {
 
     /*!----INÍCIO PROJETOS----*/
     #projects .projects {
-      padding: 0 25% 0 20%;
+      padding: 0 30% 0 30%;
       /* min-height: 90vh; */
     }
     /*!----FIM PROJETOS----*/
