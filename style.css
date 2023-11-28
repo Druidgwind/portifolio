@@ -966,8 +966,8 @@ span {
 
     /*!----INÍCIO SOBRE---*/
     #about .about {
-      padding: 0 20% 0 20%;
-      min-height: 60vh;
+      padding: 0 15% 0 15%;
+      /* min-height: 80vh; */
     }
     #about .col-right {
       padding-left: 10%;
