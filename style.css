@@ -985,8 +985,7 @@ span {
 
     /*!----INÍCIO PROJETOS----*/
     #projects .projects {
-      padding: 0 30% 0 30%;
-      /* min-height: 90vh; */
+      padding: 0 20% 0 20%;
     }
     /*!----FIM PROJETOS----*/
     #contact .contact-item {
@@ -996,9 +995,17 @@ span {
       min-width: 250px;
     }
 
-    /*!----FIM PC---*/
+  
   }
+  /*!----FIM PC---*/
 
+  /*!----INICIO TV---*/
+  @media only screen and (min-width: 1600px) {
+    #projects .projects {
+      padding: 0 30% 0 30%;
+    }
+  }
+  /*!----FIM TV---*/
 
   /*!-----TESTE-----*/
 

@@ -3,7 +3,7 @@
 
 ![preview](./.github/preview.png)
 
-[Clique Para Acessar o Site](https://lfs-dev.github.io/portfolio/)
+[Clique Para Acessar o Site](https://lfsdev.com)
 
 ## ✔️ Tecnologias e Ferramentas utilizadas
 
